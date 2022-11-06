@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: blue;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #8fca18;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: green;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #8fca18;
+    
+}
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color:white;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px blue;
+    
+}
+h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: green;
+    text-shadow: 0 0 3px #ff0000, 0 0 5px #8fca18;
+    
+}
+.col-sm-4{
+    height:75vh;
+    background:repeating-conic-gradient(pink 10%,red 20%,cyan 30%,green 10%,yellow 20%,pink 10%,lavender 20%,orange 30%,green 10%,yellow 20%);
+
+}
+
+
+.container3{
+     text-align: left;
+    
+}
+
+.container1{
+    text-align: center;
+   
+
+}
+.container2{
+    text-align: center;
+}
+
+ /* body{
+    background: radial-gradient(circle,pink,lavender,cyan,tomato,orange,green,yellow);
+
+} */
+
+
+.col-sm-3{
+    background: linear-gradient(to top,indigo,pink,green,red);
+}
+.col-sm-6{
+        background: repeating-linear-gradient(red,orange 10%,violet 20%);
+        height: 21vh;
+}
+ .col-sm-8{
+    
+    height:75vh;
+     background-image: radial-gradient(pink,lavender,cyan,green,yellow);
+} 
